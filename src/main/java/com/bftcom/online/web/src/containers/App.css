@@ -1,0 +1,26 @@
+.app {
+
+}
+
+.app .carousel-container {
+    padding: 0 40px 0 40px;
+
+}
+
+.app .carousel-container .img-wrap {
+    width: 300px;
+    height: 400px;
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    margin: 0;
+}
+
+.app .search-container {
+    padding: 20px 40px 0 40px;
+}
+
+.app .search-results-container {
+    padding: 0 40px 0 40px;
+}
+
